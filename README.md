@@ -1,5 +1,5 @@
 # Classes-and-Objects
-This repo contains the solution to my Zuri task on classes and objects
+This repo contains the solution to my Zuri task on Python classes and objects
 
 The task:
 
